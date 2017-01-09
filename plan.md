@@ -28,4 +28,4 @@
 
 20:00 - Happy Hour
 
-*Intervalo de 10 minutos entre cada palestra. Tempo médio de palestra de **50 minutos**.
+Intervalo de 10 minutos entre cada palestra. Tempo médio de palestra de **50 minutos**.
