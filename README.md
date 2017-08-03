@@ -22,9 +22,9 @@ Relay Modern
 
 ### Ingressos
 
-2º lote: R$180
+3º lote: R$250
 
-[Adquira o seu ingresso](http://bit.ly/sympla-reactonfbr)
+[Adquira o seu ingresso](https://www.sympla.com.br/react-conf-brasil-2017__161239)
 
 ### Temas
 
