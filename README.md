@@ -2,7 +2,7 @@
 
 ## A primeira conferência de React na América Latina é no Brasil!
 
-Este repositório serve para atualizarmos as informações da conferência e gerenciarmos as issues relacionadas à organização, ideias, necessidades para realizaço do evento, votações, pesquisas, etc.
+Este repositório serve para atualizarmos as informações da conferência e gerenciarmos as issues relacionadas a organização, ideias, necessidades para realizaço do evento, votações, pesquisas, etc.
 
 ### Data
 
@@ -16,9 +16,20 @@ Rua Augusta, 943, Cerqueira César, São Paulo SP Brasil
 
 ### Palestrantes
 
-**Sibelius Seraphini** São Paulo, Brasil
+**Kete Rufino, Christiano Milfont** Ceará, Brasil
+FROM A LEGACY FRONT-END TO A REACT SPA
 
-Relay Modern
+**Matheus Marsiglio** São Paulo, Brasil
+ISOMORPHIC REACT + REDUX APP
+
+**Raphael Amorim** Rio de Janeiro, Brasil
+SCRATCHING REACT FIBER
+
+**Fernando Daciuk** Curitiba, Brasil
+THE MAGIC WORLD OF TESTS WITH JEST
+
+**Sibelius Seraphini** São Paulo, Brasil
+RELAY MODERN
 
 ### Ingressos
 
@@ -26,17 +37,13 @@ Relay Modern
 
 [Adquira o seu ingresso](https://www.sympla.com.br/react-conf-brasil-2017__161239)
 
-### Temas
-
-Compartilhe e vote nos [temas](https://github.com/react-brasil/reactconfbr/issues/8) a serem abordados nas palestras da conferência.
-
-### Call For Papers
-
-[papercall.io/reactconfbr](https://www.papercall.io/reactconfbr)
-
 ### Patrocínios
 
 Você pode demonstrar seu interesse nesta [issue](https://github.com/react-brasil/reactconfbr/issues/7) ou entrar em contato através do e-mail reactconfbr@gmail.com
+
+### Apoio
+
+Taller, Fullcircle, DevNaEstrada, CodamosClub
 
 ### Site React Conf Brasil
 
