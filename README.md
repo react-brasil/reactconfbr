@@ -16,26 +16,53 @@ Rua Augusta, 943, Cerqueira César, São Paulo SP Brasil
 
 ### Palestrantes
 
-**Kete Rufino, Christiano Milfont** Ceará, Brasil
-FROM A LEGACY FRONT-END TO A REACT SPA
+**Sashko Stubailo** San Francisco, EUA
+`THE GRAPHQL AND APOLLO STACK: CONNECTING EVERYTHING TOGETHER`
 
-**Matheus Marsiglio** São Paulo, Brasil
-ISOMORPHIC REACT + REDUX APP
-
-**Raphael Amorim** Rio de Janeiro, Brasil
-SCRATCHING REACT FIBER
-
-**Fernando Daciuk** Curitiba, Brasil
-THE MAGIC WORLD OF TESTS WITH JEST
+**James Baxley** Anderson, EUA
+`STATICALLY TYPING YOUR GRAPHQL APP`
 
 **Sibelius Seraphini** São Paulo, Brasil
-RELAY MODERN
+`RELAY MODERN`
+
+**Matheus Marsiglio** São Paulo, Brasil
+`ISOMORPHIC REACT + REDUX APP`
+
+**Raphael Amorim** Rio de Janeiro, Brasil
+`SCRATCHING REACT FIBER`
+
+**Fernando Daciuk** Curitiba, Brasil
+`THE MAGIC WORLD OF TESTS WITH JEST`
+
+**Raphael Costa** Curitiba, Brasil
+`BUILDING THE PIPEFY MOBILE APP IN 3 WEEKS`
+
+**Kete Rufino, Christiano Milfont** Ceará, Brasil
+`FROM A LEGACY FRONT-END TO A REACT SPA`
+
+**Sebastian Ferrari** Montevideo, Uruguai
+`WHY REACT IS GOOD FOR BUSINESS`
+
+**Henrique Sosa** São Paulo, Brasil
+`GORGEOUS APPS WITH REACT MOTION AND ANIMATIONS`
+
+**Matheus Lima** Rio de Janeiro, Brasil
+`O QUE TEM DE FUNCIONAL NO REACT`
+
+**Clara Battesini** Salvador, Brasil
+`MOBX: THE LIGHT SIDE OF THE FORCE`
+
+**Keuller Magalhães** Belém, Brasil
+`A CONFIRMAR`
+
+**Marcelo Camargo** Joinville, Brasil
+`A CONFIRMAR`
 
 ### Ingressos
 
-3º lote: R$250
-
-[Adquira o seu ingresso](https://www.sympla.com.br/react-conf-brasil-2017__161239)
+1º lote: **ESGOTADO**
+2º lote: **ESGOTADO**
+3º lote: **ESGOTADO**
 
 ### Patrocínios
 
