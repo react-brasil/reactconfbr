@@ -16,47 +16,54 @@ Rua Augusta, 943, Cerqueira César, São Paulo SP Brasil
 
 ### Palestrantes
 
-**Sashko Stubailo** San Francisco, EUA
-`THE GRAPHQL AND APOLLO STACK: CONNECTING EVERYTHING TOGETHER`
 
-**James Baxley** Anderson, EUA
-`STATICALLY TYPING YOUR GRAPHQL APP`
-
-**Sibelius Seraphini** São Paulo, Brasil
-`RELAY MODERN`
-
-**Matheus Marsiglio** São Paulo, Brasil
-`ISOMORPHIC REACT + REDUX APP`
-
-**Raphael Amorim** Rio de Janeiro, Brasil
-`SCRATCHING REACT FIBER`
-
-**Fernando Daciuk** Curitiba, Brasil
+- 1. **Fernando Daciuk** Curitiba, Brasil
 `THE MAGIC WORLD OF TESTS WITH JEST`
 
-**Raphael Costa** Curitiba, Brasil
-`BUILDING THE PIPEFY MOBILE APP IN 3 WEEKS`
-
-**Kete Rufino, Christiano Milfont** Ceará, Brasil
+- 2. **Kete Rufino, Christiano Milfont** Ceará, Brasil
 `FROM A LEGACY FRONT-END TO A REACT SPA`
 
-**Sebastian Ferrari** Montevideo, Uruguai
-`WHY REACT IS GOOD FOR BUSINESS`
+- 3. **Marcelo Camargo** Joinville, Brasil
+`LET'S DIVE INTO BABEL: HOW EVERYTHING WORKS`
 
-**Henrique Sosa** São Paulo, Brasil
-`GORGEOUS APPS WITH REACT MOTION AND ANIMATIONS`
+- 4. **James Baxley** Anderson, EUA
+`STATICALLY TYPING YOUR GRAPHQL APP`
 
-**Matheus Lima** Rio de Janeiro, Brasil
-`O QUE TEM DE FUNCIONAL NO REACT`
+- 5. **Raphael Amorim** Rio de Janeiro, Brasil
+`SCRATCHING REACT FIBER`
 
-**Clara Battesini** Salvador, Brasil
+- 6. **Clara Battesini** Salvador, Brasil
 `MOBX: THE LIGHT SIDE OF THE FORCE`
 
-**Keuller Magalhães** Belém, Brasil
-`A CONFIRMAR`
+- 7. **João Gonçalves** Campinas, Brasil
+`SHOW DO MILHÃO REACT PWA (CASO DE SUCESSO)`
 
-**Marcelo Camargo** Joinville, Brasil
-`A CONFIRMAR`
+- 8. **Raphael Costa** Curitiba, Brasil
+`BUILDING THE PIPEFY MOBILE APP IN 3 WEEKS WITH REACT NATIVE, GRAPHQL AND APOLLO`
+
+- 9. **Sashko Stubailo** San Francisco, EUA
+`THE GRAPHQL AND APOLLO STACK: CONNECTING EVERYTHING TOGETHER`
+
+- 10. **Sebastian Ferrari** Montevideo, Uruguai
+`WHY REACT IS GOOD FOR BUSINESS`
+
+- 11. **Henrique Sosa** São Paulo, Brasil
+`GORGEOUS APPS WITH REACT MOTION AND ANIMATIONS`
+
+- 12. **Matheus Marsiglio** São Paulo, Brasil
+`ISOMORPHIC REACT + REDUX APP`
+
+- 13. **Matheus Lima** Rio de Janeiro, Brasil
+`O QUE TEM DE FUNCIONAL NO REACT`
+
+- 14. **Keuller Magalhães** Belém, Brasil
+`REACT PERFORMANCE FROM SCRATCH`
+
+- 15. **Geisy Domiciano** Diadema, Brasil
+`CONTINUOS INTEGRATION / CONTINUOS DEPLOYMENT`
+
+- 16. **Sibelius Seraphini** São Paulo, Brasil
+`RELAY MODERN`
 
 ### Ingressos
 
@@ -66,11 +73,21 @@ Rua Augusta, 943, Cerqueira César, São Paulo SP Brasil
 
 ### Patrocínios
 
+Pipefy, Globo.com, Meteor, Apollo, Taller, Fullcircle, Quanto, Udacity, Cubos, Segware, Entria
+
 Você pode demonstrar seu interesse nesta [issue](https://github.com/react-brasil/reactconfbr/issues/7) ou entrar em contato através do e-mail reactconfbr@gmail.com
 
 ### Apoio
 
-Taller, Fullcircle, DevNaEstrada, CodamosClub
+Concrete, Rung, LuizaLabs, Movile, Rivendel, GreenMile, STQ, Hi Platform
+
+### Promoção
+
+InfoQ, DevNaEstrada, CodamosClub, JS Ladies, NodeBR, Training Center, BrazilJS, Tableless, GeekHunter
+
+### Afterparty
+
+An English Thing
 
 ### Site React Conf Brasil
 
