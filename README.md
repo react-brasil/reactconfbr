@@ -6,7 +6,7 @@ Este repositório serve para atualizarmos as informações da conferência e ger
 
 ### Data
 
-Dia 07 de outubro de 2017, das 8am às 6pm
+Dia 07 de outubro de 2017, das 9am às 6pm
 
 ### Local
 
@@ -17,52 +17,52 @@ Rua Augusta, 943, Cerqueira César, São Paulo SP Brasil
 ### Palestrantes
 
 
-- 1. **Fernando Daciuk** Curitiba, Brasil
+- **Fernando Daciuk** Curitiba, Brasil
 `THE MAGIC WORLD OF TESTS WITH JEST`
 
-- 2. **Kete Rufino, Christiano Milfont** Ceará, Brasil
+- **Kete Rufino, Christiano Milfont** Ceará, Brasil
 `FROM A LEGACY FRONT-END TO A REACT SPA`
 
-- 3. **Marcelo Camargo** Joinville, Brasil
+- **Marcelo Camargo** Joinville, Brasil
 `LET'S DIVE INTO BABEL: HOW EVERYTHING WORKS`
 
-- 4. **James Baxley** Anderson, EUA
+- **James Baxley** Anderson, EUA
 `STATICALLY TYPING YOUR GRAPHQL APP`
 
-- 5. **Raphael Amorim** Rio de Janeiro, Brasil
+- **Raphael Amorim** Rio de Janeiro, Brasil
 `SCRATCHING REACT FIBER`
 
-- 6. **Clara Battesini** Salvador, Brasil
+- **Clara Battesini** Salvador, Brasil
 `MOBX: THE LIGHT SIDE OF THE FORCE`
 
-- 7. **João Gonçalves** Campinas, Brasil
+- **João Gonçalves** Campinas, Brasil
 `SHOW DO MILHÃO REACT PWA (CASO DE SUCESSO)`
 
-- 8. **Raphael Costa** Curitiba, Brasil
+- **Raphael Costa** Curitiba, Brasil
 `BUILDING THE PIPEFY MOBILE APP IN 3 WEEKS WITH REACT NATIVE, GRAPHQL AND APOLLO`
 
-- 9. **Sashko Stubailo** San Francisco, EUA
+- **Sashko Stubailo** San Francisco, EUA
 `THE GRAPHQL AND APOLLO STACK: CONNECTING EVERYTHING TOGETHER`
 
-- 10. **Sebastian Ferrari** Montevideo, Uruguai
+- **Sebastian Ferrari** Montevideo, Uruguai
 `WHY REACT IS GOOD FOR BUSINESS`
 
-- 11. **Henrique Sosa** São Paulo, Brasil
+- **Henrique Sosa** São Paulo, Brasil
 `GORGEOUS APPS WITH REACT MOTION AND ANIMATIONS`
 
-- 12. **Matheus Marsiglio** São Paulo, Brasil
+- **Matheus Marsiglio** São Paulo, Brasil
 `ISOMORPHIC REACT + REDUX APP`
 
-- 13. **Matheus Lima** Rio de Janeiro, Brasil
+- **Matheus Lima** Rio de Janeiro, Brasil
 `O QUE TEM DE FUNCIONAL NO REACT`
 
-- 14. **Keuller Magalhães** Belém, Brasil
+- **Keuller Magalhães** Belém, Brasil
 `REACT PERFORMANCE FROM SCRATCH`
 
-- 15. **Geisy Domiciano** Diadema, Brasil
+- **Geisy Domiciano** Diadema, Brasil
 `CONTINUOS INTEGRATION / CONTINUOS DEPLOYMENT`
 
-- 16. **Sibelius Seraphini** São Paulo, Brasil
+- **Sibelius Seraphini** São Paulo, Brasil
 `RELAY MODERN`
 
 ### Ingressos
