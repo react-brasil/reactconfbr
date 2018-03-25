@@ -1,6 +1,6 @@
 # React Conf Brasil 2018
 
-## A segunda edição da maior conferência de React e tecnologias do mesmo ecosistema da América Latina!
+## A segunda edição da maior conferência de React e tecnologias do mesmo ecossistema da América Latina!
 
 Este repositório serve para atualizarmos as informações da conferência e gerenciarmos as issues relacionadas a organização, ideias, necessidades para realizaço do evento, votações, pesquisas, etc.
 
