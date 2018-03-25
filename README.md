@@ -22,7 +22,7 @@ _(a ser divulgado)_
 ### Patrocínios
 _(a ser divulgado)_
 
-Você pode demonstrar seu interesse nesta [issue](https://github.com/react-brasil/reactconfbr/issues/7) ou entrar em contato através do e-mail reactconfbr@gmail.com
+Você pode demonstrar seu interesse nesta [issue](https://github.com/react-brasil/reactconfbr/issues/22) ou entrar em contato através do e-mail reactconfbr@gmail.com
 
 ### Apoio
 _(a ser divulgado)_
